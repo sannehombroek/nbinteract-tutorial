@@ -6,5 +6,4 @@ dependencies:
   - python-igraph
   - ipywidgets
   - matplotlib
-  - nbinteract
   - numpy

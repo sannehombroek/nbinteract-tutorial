@@ -1,0 +1,8 @@
+name: osmnx-examples
+channels:
+  - conda-forge
+dependencies:
+  - osmnx=1.0.0
+  - python-igraph
+  - ipywidgets
+  - matplotlib

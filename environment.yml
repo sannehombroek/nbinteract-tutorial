@@ -7,3 +7,6 @@ dependencies:
   - ipywidgets
   - matplotlib
   - numpy
+  - pip
+  - pip:
+    nbinteract

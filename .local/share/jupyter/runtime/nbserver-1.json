@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/sannehombroek-n-teract-tutorial-oakuyzud/",
+  "base_url": "/binder/jupyter/user/sannehombroek-n-teract-tutorial-9ddmzg4s/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "8LP684z9T4e7VApWILWmXA",
-  "url": "http://0.0.0.0:8888/user/sannehombroek-n-teract-tutorial-oakuyzud/"
+  "token": "FaiXCiZaRbaU5ydw1N3xJQ",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/sannehombroek-n-teract-tutorial-9ddmzg4s/"
 }
